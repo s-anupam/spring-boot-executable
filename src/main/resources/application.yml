@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: info
+
+server:
+  port: 8080
+  tomcat:
+    remote-ip-header: x-forwarded-for
+    protocol-header: x-forwarded-proto
+  servlet:
+    context-path: /demo
+    
