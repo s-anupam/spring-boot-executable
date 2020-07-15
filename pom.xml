@@ -14,7 +14,7 @@
     <groupId>gskjold</groupId>
     <artifactId>spring-boot-executable</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
