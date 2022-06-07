@@ -27,7 +27,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/jcansdale-test/spring-boot-executable</url>
+            <url>https://maven.pkg.github.com/s-anupam/spring-boot-executable</url>
         </repository>
     </distributionManagement>
     <build>
